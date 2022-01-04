@@ -1,0 +1,142 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12842610",
+      "name": "w_calendar",
+      "font_class": "w_calendar",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "12842611",
+      "name": "w_pc",
+      "font_class": "w_pc",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "12842630",
+      "name": "w_爱心",
+      "font_class": "w_aixin",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "12842635",
+      "name": "w_book",
+      "font_class": "w_book",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "12842637",
+      "name": "w_窗帘",
+      "font_class": "w_chuanglian",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "12842643",
+      "name": "w_导入到-91",
+      "font_class": "w_daorudao-",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "12842646",
+      "name": "w_link",
+      "font_class": "w_link",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "12842647",
+      "name": "w_报纸",
+      "font_class": "w_baozhi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "12842656",
+      "name": "w_电视-181",
+      "font_class": "w_dianshi-",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "12842682",
+      "name": "w_多选题",
+      "font_class": "w_duoxuanti",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "12842690",
+      "name": "w_黑板1",
+      "font_class": "w_heiban",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "12842698",
+      "name": "w_浏览器",
+      "font_class": "w_liulanqi",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "12842719",
+      "name": "w_二维码",
+      "font_class": "w_erweima",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "12842737",
+      "name": "w_电视-28",
+      "font_class": "w_dianshi-1",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "12842753",
+      "name": "w_文档",
+      "font_class": "w_wendang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "12842780",
+      "name": "w_消息-41",
+      "font_class": "w_xiaoxi-",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "12842782",
+      "name": "w_文件夹-62",
+      "font_class": "w_wenjianjia-",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "12842801",
+      "name": "w_音量",
+      "font_class": "w_yinliang",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "12842821",
+      "name": "w_作业",
+      "font_class": "w_zuoye",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    }
+  ]
+}
